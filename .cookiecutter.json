@@ -1,6 +1,7 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/eb54a864-8d85-452f-a185-dfc376d33a35/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "java-kotlin-lib-test-hInBL",
     "component_id": "java-kotlin-lib-test-hInBL",
     "description": "This project was created from the template-java-kotlin-library template.",
